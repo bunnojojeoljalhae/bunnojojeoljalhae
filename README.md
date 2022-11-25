@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&text=¥€$!&fontColor=FF5E00&fontSize=70&fontAlignY=50&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?color=auto&type=transparent&height=300&text=Ctrl+c,%20Ctrl+v%20artist&fontSize=60&fontColor=FF5E00&fontAlignY=50&fontAlign=50&animation=twinkling)
+
+
+                    
 
 
 
-
-
+ <br>
 👋 Hi, I’m @bunnojojeoljalhae <br>
 👀 I’m interested in ... <br>
 🌱 I’m currently learning ... <br>
