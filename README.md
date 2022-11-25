@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&type=transparent&height=300&text=Ctrl+c,%20Ctrl\+v%20artist&fontSize=60&fontColor=FF5E00&fontAlignY=50&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?color=auto&type=transparent&height=300&text=Ctrl+c,%20Ctrl\+v%20Artist&fontSize=60&fontColor=FF5E00&fontAlignY=50&fontAlign=50&animation=twinkling)
 
 
                     
