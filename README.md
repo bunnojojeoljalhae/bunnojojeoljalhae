@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&text=¥€$&fontColor=FF5E00&fontSize=70&fontAlignY=50&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&text=¥€$!&fontColor=FF5E00&fontSize=70&fontAlignY=50&fontAlign=50&animation=twinkling)
+
+___
+
+
 
 👋 Hi, I’m @bunnojojeoljalhae <br>
 👀 I’m interested in ... <br>
