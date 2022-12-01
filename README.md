@@ -12,7 +12,7 @@
 💞️ I’m looking to collaborate on ... <br>
 📫 How to reach me ... <br>
 
-???????????????
+
 
 <!---
 bunnojojeoljalhae/bunnojojeoljalhae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
