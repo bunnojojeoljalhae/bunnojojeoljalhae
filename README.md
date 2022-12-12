@@ -6,7 +6,7 @@
 
 
 <br>
-:alien: <br>
+
 👋 Hi, I’m @bunnojojeoljalhae <br>
 👀 I’m interested in <b>NOTHING</b> <br>
 🌱 I’m currently learning ... <br>
